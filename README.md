@@ -11,7 +11,7 @@ Currently, I am working on my final year project focused on designing and deploy
 ### 🔬 What I Do
 - 🔭 Currently studying: Advanced Threat Detection, SIEM (Elastic Stack), and Detection as Code
 - 🌱 Currently learning: SOAR automation and Python scripting for security operations
-- 💼 Experience: Former OT Security Intern at OCP S.A. | Incoming Security Intern at DATAPROTECT (Business Unit Sécurité des Moyens de Paiements)
+- 💼 Experience: Former OT Security Intern at OCP S.A. 
 - 📚 Training: CompTIA Security+ & Cisco CCNA coursework (Alphorm)
 
 ---
